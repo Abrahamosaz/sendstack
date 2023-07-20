@@ -1,0 +1,33 @@
+.root {
+    font-size: 16px;
+    box-sizing: border-box;
+    background-color: rgb(223, 227, 220);
+}
+
+
+.container {
+    margin: 0px 30px;
+}
+
+.select_location {
+    width: 100px;
+}
+
+.style_section {
+    display: flex;
+    margin: 10px;
+    margin-top: 5px;
+    border-radius: 20px;
+    background-color: white;
+    padding: 20px;
+
+}
+
+.logo_section {
+    margin: 0px;
+    padding: 0px;
+}
+
+.booking_section {
+    margin: 10px;
+}
