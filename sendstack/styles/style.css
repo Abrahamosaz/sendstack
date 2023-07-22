@@ -1,0 +1,12 @@
+@font-face {
+  font-family: Imported;
+  /* src: url(./fonts/Roboto-Regular.ttf); */
+  src: url(../fonts/SourceSans3-VariableFont_wght.ttf);
+}
+
+.root {
+  font-size: 16px;
+  box-sizing: border-box;
+  background-color: #ebf3fd;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif !important;
+}

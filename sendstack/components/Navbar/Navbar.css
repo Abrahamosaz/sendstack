@@ -1,0 +1,57 @@
+.nav__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.nav__content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 95%;
+}
+
+.nav__input {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: #f2f7ff;
+  padding: 0.5rem 1rem;
+  border-radius: 1rem;
+  border: 1px solid #f2f7ff;
+}
+
+.nav__input > input {
+  border: none;
+  background-color: #f2f7ff;
+  outline: none;
+}
+
+.nav__profile {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.nav__profile__div {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  gap: 0.5rem;
+}
+
+.nav__profile__div > img {
+  cursor: pointer;
+}
+
+.nav__profile__div p {
+  font-size: 15px;
+  font-weight: 600;
+}
