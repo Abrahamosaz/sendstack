@@ -3,10 +3,7 @@ import { AiOutlineSearch } from "react-icons/ai";
 import { IoMdNotificationsOutline } from "react-icons/io";
 import "./Navbar.css";
 import Image from "next/image";
-
 import profile from "@/public/profile.png";
-
-import PickupModal from "../Modal/PickupModal";
 
 const Navbar = () => {
   return (
